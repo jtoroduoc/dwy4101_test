@@ -6,6 +6,9 @@ Pasos para iniciar repositorio local
 4. git push origin master (master, podría la rama de desarrollo antes de producción)
 5. git branch (Muestra ramas del repositorio de versionamiento)
 6. git checkout -b nombre_nueva_rama
+7. git checkout nombre_de_la_rama (Nos cambies de rama de una a otra)
+8. git diff rama_origen rama_destino (Comparar contenido entre dos ramas)
+9. 
 
 
 -- Estandar Ramas Desarrollo  
