@@ -8,7 +8,7 @@ Pasos para iniciar repositorio local
 6. git checkout -b nombre_nueva_rama
 7. git checkout nombre_de_la_rama (Nos cambies de rama de una a otra)
 8. git diff rama_origen rama_destino (Comparar contenido entre dos ramas)
-9. 
+9. git merge rama_copiar (Mover o copiar cambios de rama actual a rama_copiar)
 
 
 -- Estandar Ramas Desarrollo  
